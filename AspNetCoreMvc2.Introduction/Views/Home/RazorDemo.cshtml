@@ -1,0 +1,47 @@
+﻿@model AspNetCoreMvc2.Introduction.Model.EmployeeListViewModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>RazorDemo</title>
+</head>
+<body>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>FirstName</th>
+            <th>LastName</th>
+            <th>Cities</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Employees) {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.FirstName</td>
+            <td>@item.LastName</td>
+            <td>@item.CityId</td>
+        </tr>
+}
+    </tbody>
+    Iam @@home
+    <p>@DateTime.Now</p>
+    @{var date = DateTime.Now - TimeSpan.FromDays(3);}
+    <p>3 days ago was @date</p>
+    @{ 
+        var number = 10;
+    }
+    
+</table>
+</body>
+</html>
