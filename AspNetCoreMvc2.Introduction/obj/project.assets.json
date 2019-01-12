@@ -13133,11 +13133,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Enis\\source\\repos\\AspNetCoreMvc2.Introduction\\AspNetCoreMvc2.Introduction\\AspNetCoreMvc2.Introduction.csproj",
+      "projectUniqueName": "C:\\Users\\Enis\\Documents\\GitHub\\Asp.Net-Core-Mvc-Introduction\\AspNetCoreMvc2.Introduction\\AspNetCoreMvc2.Introduction.csproj",
       "projectName": "AspNetCoreMvc2.Introduction",
-      "projectPath": "C:\\Users\\Enis\\source\\repos\\AspNetCoreMvc2.Introduction\\AspNetCoreMvc2.Introduction\\AspNetCoreMvc2.Introduction.csproj",
+      "projectPath": "C:\\Users\\Enis\\Documents\\GitHub\\Asp.Net-Core-Mvc-Introduction\\AspNetCoreMvc2.Introduction\\AspNetCoreMvc2.Introduction.csproj",
       "packagesPath": "C:\\Users\\Enis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Enis\\source\\repos\\AspNetCoreMvc2.Introduction\\AspNetCoreMvc2.Introduction\\obj\\",
+      "outputPath": "C:\\Users\\Enis\\Documents\\GitHub\\Asp.Net-Core-Mvc-Introduction\\AspNetCoreMvc2.Introduction\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

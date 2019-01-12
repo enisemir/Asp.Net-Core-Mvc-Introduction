@@ -36,9 +36,18 @@ namespace AspNetCoreMvc2.Introduction.Controllers
                 Employees = employees,
                 Cities = cities
             };
-
-
             return View(model);
         }
+
+        public StatusCodeResult Index4()
+        {
+            return Ok();
+        }
+
+        public StatusCodeResult Index5()
+        {
+            return NotFound();
+        }
+
     }
 }
