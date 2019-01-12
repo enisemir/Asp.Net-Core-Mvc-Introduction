@@ -1,0 +1,11 @@
+C:\Users\Enis\source\repos\AspNetCoreMvc2.Introduction\AspNetCoreMvc2.Introduction\bin\Debug\netcoreapp2.0\AspNetCoreMvc2.Introduction.deps.json
+C:\Users\Enis\source\repos\AspNetCoreMvc2.Introduction\AspNetCoreMvc2.Introduction\bin\Debug\netcoreapp2.0\AspNetCoreMvc2.Introduction.runtimeconfig.json
+C:\Users\Enis\source\repos\AspNetCoreMvc2.Introduction\AspNetCoreMvc2.Introduction\bin\Debug\netcoreapp2.0\AspNetCoreMvc2.Introduction.runtimeconfig.dev.json
+C:\Users\Enis\source\repos\AspNetCoreMvc2.Introduction\AspNetCoreMvc2.Introduction\bin\Debug\netcoreapp2.0\AspNetCoreMvc2.Introduction.dll
+C:\Users\Enis\source\repos\AspNetCoreMvc2.Introduction\AspNetCoreMvc2.Introduction\obj\Debug\netcoreapp2.0\AspNetCoreMvc2.Introduction.csprojResolveAssemblyReference.cache
+C:\Users\Enis\source\repos\AspNetCoreMvc2.Introduction\AspNetCoreMvc2.Introduction\obj\Debug\netcoreapp2.0\AspNetCoreMvc2.Introduction.csproj.CoreCompileInputs.cache
+C:\Users\Enis\source\repos\AspNetCoreMvc2.Introduction\AspNetCoreMvc2.Introduction\obj\Debug\netcoreapp2.0\AspNetCoreMvc2.Introduction.AssemblyInfoInputs.cache
+C:\Users\Enis\source\repos\AspNetCoreMvc2.Introduction\AspNetCoreMvc2.Introduction\obj\Debug\netcoreapp2.0\AspNetCoreMvc2.Introduction.AssemblyInfo.cs
+C:\Users\Enis\source\repos\AspNetCoreMvc2.Introduction\AspNetCoreMvc2.Introduction\bin\Debug\netcoreapp2.0\AspNetCoreMvc2.Introduction.pdb
+C:\Users\Enis\source\repos\AspNetCoreMvc2.Introduction\AspNetCoreMvc2.Introduction\obj\Debug\netcoreapp2.0\AspNetCoreMvc2.Introduction.dll
+C:\Users\Enis\source\repos\AspNetCoreMvc2.Introduction\AspNetCoreMvc2.Introduction\obj\Debug\netcoreapp2.0\AspNetCoreMvc2.Introduction.pdb
