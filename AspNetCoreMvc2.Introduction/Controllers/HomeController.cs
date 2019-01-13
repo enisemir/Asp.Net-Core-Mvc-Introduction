@@ -104,12 +104,17 @@ namespace AspNetCoreMvc2.Introduction.Controllers
                 new Employee{Id=2, FirstName = "Melis", LastName="Emir",CityId=39  },
                 new Employee{Id=3, FirstName = "Özcan", LastName="Emir",CityId=34  }
             };
-            if (String.IsNullOrEmpty)
+            if (String.IsNullOrEmpty(key))
             {
                 return Json(employees);
             }
             var result = employees.Where(e => e.FirstName.ToLower().Contains(key));
             return Json(result);
+        }
+
+        public ViewResult EmployeeForm()
+        {
+            return View();
         }
 
     }
